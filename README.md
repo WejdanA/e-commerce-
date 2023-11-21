@@ -57,7 +57,7 @@ Tech Stack: React, TypeScript, and React/Redux Toolkit. Styling: CSS/SASS and Bo
 - [x] Implement pagination feature
 - [x] Create a Profile Page (only available if user logs in), implement editing user profile feature (user can change first name, last name)
 
-## Front-end E-commerce Website
+## Back-end E-commerce Website
 
 The back-end will be updated soon
 
