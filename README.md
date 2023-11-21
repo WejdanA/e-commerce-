@@ -65,7 +65,7 @@ Tech Stack: Express, TypeScript, MongoDB and Mongoose Toolkit.
 
 # Run the projecet
 
-1. git clone
-2. cd
+1. git clone https://github.com/WejdanA/e-commerce-.git
+2. cd e-commerce
 3. install npm
 4. npm start
